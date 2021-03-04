@@ -186,7 +186,7 @@ cv2.waitKey()
 cv2.destroyAllWindows()
 
 
-# In[ ]:
+# 출처 : https://bkshin.tistory.com/category/OpenCV
 
 
 

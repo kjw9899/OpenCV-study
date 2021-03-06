@@ -135,6 +135,6 @@ cv2.calcBackProjection(images, channels, hist, ranges, scale, dst=None) -> dst
 
 # In[ ]:
 
-
+# 출처 : https://bkshin.tistory.com/entry/OpenCV-11-2%EC%B0%A8%EC%9B%90-%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EA%B3%BC-%EC%97%AD%ED%88%AC%EC%98%81back-project?category=1148027
 
 

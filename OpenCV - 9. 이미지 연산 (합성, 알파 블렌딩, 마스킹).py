@@ -421,3 +421,4 @@ cv2.imshow('added', img2)
 cv2.waitKey()
 cv2.destroyAllWindows()
 
+# 출처 : https://bkshin.tistory.com/category/OpenCV

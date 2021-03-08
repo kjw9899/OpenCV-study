@@ -69,6 +69,5 @@ cv2.destroyAllWindows()
 
 # In[ ]:
 
-
-
+#출처 :https://bkshin.tistory.com/entry/OpenCV-20-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9CImage-Pyramids?category=1148027
 
